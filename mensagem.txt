@@ -1,0 +1,18 @@
+Oi {nome}!
+
+Espero que esteja tudo bem com você. Estou passando para informar sobre sua conta das bebidas referente ao mês de {mes_atual}.
+
+Valor Total: R$ {debito:.2f}
+
+Segue abaixo os detalhes para pagamento:
+
+- Chave Pix: (XX) X.XXXX-XXXX
+- Banco: XXXX
+- Responsável: XXXXXX XXXXXXX XXXXXX XXXXXX
+
+Agradeco pela sua preferencia. Caso tenha alguma dúvida, estou à disposição para esclarecimentos.
+
+Gostaria de desejar um Feliz Ano Novo! alegria e sucesso para você e sua família.
+
+Atenciosamente,
+XXXXXX XXXXXXX
